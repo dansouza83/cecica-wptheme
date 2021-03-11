@@ -1,0 +1,15 @@
+/*
+Theme Name: Cecica Theme
+Theme URI: https://dansouza.site/
+Author: Daniel Silva de Souza
+Author URI: https://danosouza.site
+Description: Woocommerce Theme
+Requires at least: 4.9.6
+Requires PHP: 7.3 or above
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: cecica
+*/
+
+@import './assets/styles';
